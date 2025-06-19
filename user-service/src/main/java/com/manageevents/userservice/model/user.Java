@@ -1,4 +1,4 @@
-package
+package com.manageevents.userservice;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
